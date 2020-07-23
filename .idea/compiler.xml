@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shiro_02_Authorization_ini" />
+        <module name="shiro_01_Authentication_ini" />
+        <module name="shiro_04_Authorization_realm" />
+        <module name="shiro_03_Authentication_realm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shiro-01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
